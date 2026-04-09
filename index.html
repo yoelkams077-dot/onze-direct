@@ -4,6 +4,15 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Onze Direct — L'actu foot en temps réel</title>
+  <meta name="google-site-verification" content="aBn6WcFj_FJ3NYC6BOJ7HKRP0Sgol_u2EC9HretgdhI"/>
+  <meta name="description" content="Onze Direct — Toute l'actualité football en temps réel. Ligue 1, Premier League, Liga, Champions League, transferts, résultats."/>
+  <meta name="keywords" content="football, actu foot, ligue 1, premier league, liga, champions league, transferts, mercato, résultats foot"/>
+  <meta name="robots" content="index, follow"/>
+  <link rel="canonical" href="https://yoelkams077-dot.github.io/onze-direct/"/>
+  <meta property="og:title" content="Onze Direct — L'actu foot en temps réel"/>
+  <meta property="og:description" content="Toute l'actualité football en temps réel. Ligue 1, Premier League, Liga, Champions League, transferts."/>
+  <meta property="og:url" content="https://yoelkams077-dot.github.io/onze-direct/"/>
+  <meta property="og:type" content="website"/>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -69,7 +78,6 @@
 </div>
 <div id="error-box">
   <strong>Fichier articles.json introuvable.</strong><br>
-  Génère-le en local : <code>python fetch_news.py</code><br>
   Sur GitHub Pages, il est généré automatiquement chaque matin à 9h par GitHub Actions.<br>
   Tu peux aussi le déclencher manuellement : onglet <strong>Actions</strong> → <strong>Run workflow</strong>.
 </div>
@@ -93,14 +101,11 @@
   <span class="flogo">ONZE DIRECT</span>
   <span>Mis à jour automatiquement chaque matin · GitHub Actions</span>
 </footer>
-
 <script>
 const COLORS={'Transfert':'#c9a227','Champions League':'#e05252','Ligue 1':'#4a9edd','Premier League':'#9b7fe8','Liga':'#3dbd72','Serie A':'#e08852','France':'#5bc8f5','Real Madrid':'#3dbd72','PSG':'#4a9edd','Football':'#666'};
 let allArticles=[];
 let cur='all';
-
 document.getElementById('topdate').textContent=new Date().toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
-
 document.querySelectorAll('.tab').forEach(t=>{
   t.addEventListener('click',()=>{
     cur=t.dataset.f;
@@ -110,12 +115,10 @@ document.querySelectorAll('.tab').forEach(t=>{
     document.getElementById('article-count').textContent=allArticles.filter(a=>match(a,cur)).length+' articles';
   });
 });
-
 function match(a,f){
   if(f==='all')return true;
   return((a.cat||'')+' '+(a.title||'')).toLowerCase().includes(f.toLowerCase());
 }
-
 function renderHero(list,f){
   const a=list.filter(x=>match(x,f))[0];
   if(!a)return;
@@ -128,11 +131,9 @@ function renderHero(list,f){
   lnk.href=a.url||'#';
   lnk.style.display=a.url&&a.url!=='#'?'inline-flex':'none';
 }
-
 function renderTicker(list){
   document.getElementById('ttext').textContent=list.slice(0,20).map(a=>a.title).join('   ·   ');
 }
-
 function renderGrid(list,f){
   const grid=document.getElementById('grid');
   grid.innerHTML='';
@@ -149,7 +150,6 @@ function renderGrid(list,f){
     grid.appendChild(c);
   });
 }
-
 async function init(){
   try{
     const res=await fetch('articles.json?t='+Date.now());
@@ -166,7 +166,7 @@ async function init(){
   }catch(e){
     document.getElementById('error-box').style.display='block';
     document.getElementById('update-time').textContent='articles.json non trouvé';
-    document.getElementById('grid').innerHTML='<div class="empty" style="color:var(--dim)">Lance <strong style="color:var(--gold)">python fetch_news.py</strong> pour générer les actus.</div>';
+    document.getElementById('grid').innerHTML='<div class="empty" style="color:var(--dim)">Aucun article disponible.</div>';
   }
 }
 init();
