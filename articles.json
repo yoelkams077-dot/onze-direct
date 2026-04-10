@@ -1,18 +1,54 @@
 {
-  "updated": "10/04/2026 à 12:45 UTC",
+  "updated": "10/04/2026 à 13:02 UTC",
   "count": 30,
   "articles": [
     {
-      "title": "Didier Deschamps",
-      "desc": "Didier Deschamps, né le 15 octobre 1968 à Bayonne, est un des rares footballeur à avoir gagné la Coupe du monde comme joueur et comme sélectionneur. Originaire du Pays basque puis formé au FC Nantes, ",
-      "url": "https://rmcsport.bfmtv.com/football/didier-deschamps_DN-202108310503.html",
-      "image": "https://images.bfmtv.com/2HIWK8X3ixtykcbuVFnaQKVdTt0=/0x0:2048x1152/800x0/images/Didier-Deschamps-1161213.jpg",
-      "date": "Fri, 10 Apr 2026 12:42:24 GMT",
+      "title": "Championnat d'Arabie saoudite",
+      "desc": "La Saudi Pro League est le championnat saoudien de football, qui se compose de 18 équipes dont de grosses écuries comme Al Nassr, Al Hilal, Al Ettifaq, Al Ittihad, Al Shabab. L'Arabie saoudite a réuss",
+      "url": "https://rmcsport.bfmtv.com/football/championnat-d-arabie-saoudite_DN-202308060381.html",
+      "image": "https://images.bfmtv.com/f1xhjuPLqc2a_RXva-LXO8tovpI=/0x212:2048x1364/800x0/images/Le-King-Fahd-Stadium-en-Arabie-Saoudite-1569130.jpg",
+      "date": "Fri, 10 Apr 2026 12:58:36 GMT",
       "time": "il y a < 1h",
       "source": "RMC Sport",
       "sourceId": "rmc",
       "color": "#e05252",
-      "cat": "France"
+      "cat": "Football"
+    },
+    {
+      "title": "Cristiano Ronaldo",
+      "desc": "Cristiano Ronaldo dos Santos Aveiro, plus souvent appelé Ronaldo ou Cristiano Ronaldo et surnommé CR7, est né le 5 février 1985 à Funchal à Madère. A l'été 2021, il est retourné jouer au club où il s'",
+      "url": "https://rmcsport.bfmtv.com/football/cristiano-ronaldo_DN-202108310501.html",
+      "image": "https://images.bfmtv.com/vX0OblBW-5mlU2MdBAnIyWv6Ij4=/0x67:2048x1219/800x0/images/Cristiano-Ronaldo-1166371.jpg",
+      "date": "Fri, 10 Apr 2026 12:58:36 GMT",
+      "time": "il y a < 1h",
+      "source": "RMC Sport",
+      "sourceId": "rmc",
+      "color": "#e05252",
+      "cat": "Football"
+    },
+    {
+      "title": "Saudi Pro League: un complot arbitral pour favoriser CR7 et Al-Nassr? Plusieurs joueurs adverses crient au scandale",
+      "desc": "Ivan Toney, capitaine de l’équipe d’Al-Ahli, a lancé une attaque plus que directe envers l’arbitrage en Saudi Pro League, qui avantagerait Cristiano Ronaldo et ses coéquipiers d’Al-Nassr dans la cours",
+      "url": "https://rmcsport.bfmtv.com/football/saudi-pro-league/saudi-pro-league-un-complot-arbitral-pour-favoriser-cr7-et-al-nassr-plusieurs-joueurs-adverses-crient-au-scandale_AV-202604100578.html",
+      "image": "https://images.bfmtv.com/yy5t6IaTuF0uaGvYNKLge7wXQOE=/85x3:1717x921/800x0/images/Ivan-Toney-en-conference-de-presse-apres-le-match-ul-face-a-AL-Feiha-2268122.jpg",
+      "date": "Fri, 10 Apr 2026 12:58:35 GMT",
+      "time": "il y a < 1h",
+      "source": "RMC Sport",
+      "sourceId": "rmc",
+      "color": "#e05252",
+      "cat": "Football"
+    },
+    {
+      "title": "OL : Endrick \"a la responsabilité de faire plus\" prévient Fonseca",
+      "desc": "\"Je ne suis pas satisfait de son jeu. Il est fatigué mais il a la responsabilité de faire plus. Je m'attends à plus d'un joueur comme lui\", a averti Paulo Fonseca en conférence de presse. Prêté par le",
+      "url": "https://rmcsport.bfmtv.com/football/ligue-1/video-ol-endrick-a-la-responsabilite-de-faire-plus-previent-fonseca_VN-202604100562.html",
+      "image": "https://images.bfmtv.com/ahCb2Qs0qPj0uNPYyQFlsVSv1Es=/0x0:1280x720/800x0/images/OL-Endrick-a-la-responsabilite-de-faire-plus-previent-Fonseca-2268154.jpg",
+      "date": "Fri, 10 Apr 2026 12:44:17 GMT",
+      "time": "il y a < 1h",
+      "source": "RMC Sport",
+      "sourceId": "rmc",
+      "color": "#e05252",
+      "cat": "Football"
     },
     {
       "title": "Deschamps dans la short list du Real Madrid: ce que le sélectionneur a dit sur son avenir après les Bleus",
@@ -37,6 +73,18 @@
       "sourceId": "rmc",
       "color": "#e05252",
       "cat": "Real Madrid"
+    },
+    {
+      "title": "Didier Deschamps",
+      "desc": "Didier Deschamps, né le 15 octobre 1968 à Bayonne, est un des rares footballeur à avoir gagné la Coupe du monde comme joueur et comme sélectionneur. Originaire du Pays basque puis formé au FC Nantes, ",
+      "url": "https://rmcsport.bfmtv.com/football/didier-deschamps_DN-202108310503.html",
+      "image": "https://images.bfmtv.com/2HIWK8X3ixtykcbuVFnaQKVdTt0=/0x0:2048x1152/800x0/images/Didier-Deschamps-1161213.jpg",
+      "date": "Fri, 10 Apr 2026 12:42:24 GMT",
+      "time": "il y a < 1h",
+      "source": "RMC Sport",
+      "sourceId": "rmc",
+      "color": "#e05252",
+      "cat": "France"
     },
     {
       "title": "Info RMC Sport : Deschamps dans la shortlist du Real Madrid !",
@@ -87,10 +135,10 @@
       "cat": "Champions League"
     },
     {
-      "title": "OM: Stéphane Richard nommé président, revivez la conférence de presse de Frank McCourt",
-      "desc": "Propriétaire de l'Olympique de Marseille, Frank McCourt s'est exprimé ce vendredi lors d'une conférence de presse exceptionnelle depuis le stade Vélodrome. Rare dans les médias, l'homme d'affaires amé",
-      "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/direct-om-suivez-la-conference-de-presse-de-frank-mc-court-et-la-probable-annonce-du-nouveau-president-en-live_LN-202604100316.html",
-      "image": "https://images.bfmtv.com/NjOT2vVy1ev0YtGLSmwpEbLpEnA=/0x106:2048x1258/800x0/images/Stephane-Richard-et-Frank-McCourt-avec-l-OM-le-10-avril-2026-2268060.jpg",
+      "title": "OM: stabilité, réconciliation, top 3... Le nouveau président Stéphane Richard fixe des objectifs pour les prochains mois",
+      "desc": "Frank McCourt a officialisé ce vendredi la nomination de Stéphane Richard à la présidence de l'Olympique de Marseille. Avant son entrée en fonction effective début juillet, le nouveau dirigeant phocée",
+      "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-stabilite-reconciliation-top-3-le-nouveau-president-stephane-richard-fixe-des-objectifs-pour-les-prochains-mois_AV-202604100453.html",
+      "image": "https://images.bfmtv.com/6QmkGjhyMVVWgr4TIe9PswneM4U=/0x0:2048x1152/800x0/images/Le-nouveau-president-de-l-OM-Stephane-Richard-lors-de-sa-premiere-conference-de-presse-le-10-avril-2026-2268061.jpg",
       "date": "Fri, 10 Apr 2026 10:03:41 GMT",
       "time": "il y a 2h",
       "source": "RMC Sport",
@@ -99,10 +147,10 @@
       "cat": "Football"
     },
     {
-      "title": "OM: stabilité, réconciliation, top 3... Le nouveau président Stéphane Richard fixe des objectifs pour les prochains mois",
-      "desc": "Frank McCourt a officialisé ce vendredi la nomination de Stéphane Richard à la présidence de l'Olympique de Marseille. Avant son entrée en fonction effective début juillet, le nouveau dirigeant phocée",
-      "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-stabilite-reconciliation-top-3-le-nouveau-president-stephane-richard-fixe-des-objectifs-pour-les-prochains-mois_AV-202604100453.html",
-      "image": "https://images.bfmtv.com/6QmkGjhyMVVWgr4TIe9PswneM4U=/0x0:2048x1152/800x0/images/Le-nouveau-president-de-l-OM-Stephane-Richard-lors-de-sa-premiere-conference-de-presse-le-10-avril-2026-2268061.jpg",
+      "title": "OM: Stéphane Richard nommé président, revivez la conférence de presse de Frank McCourt",
+      "desc": "Propriétaire de l'Olympique de Marseille, Frank McCourt s'est exprimé ce vendredi lors d'une conférence de presse exceptionnelle depuis le stade Vélodrome. Rare dans les médias, l'homme d'affaires amé",
+      "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/direct-om-suivez-la-conference-de-presse-de-frank-mc-court-et-la-probable-annonce-du-nouveau-president-en-live_LN-202604100316.html",
+      "image": "https://images.bfmtv.com/NjOT2vVy1ev0YtGLSmwpEbLpEnA=/0x106:2048x1258/800x0/images/Stephane-Richard-et-Frank-McCourt-avec-l-OM-le-10-avril-2026-2268060.jpg",
       "date": "Fri, 10 Apr 2026 10:03:41 GMT",
       "time": "il y a 2h",
       "source": "RMC Sport",
@@ -116,7 +164,7 @@
       "url": "https://rmcsport.bfmtv.com/football/clubs/olympique-marseille/om-il-cochait-toutes-les-cases-pourquoi-frank-mc-court-a-choisi-stephane-richard-comme-nouveau-president_AV-202604100435.html",
       "image": "https://images.bfmtv.com/kKL_ukEOmdbwXbLDUk-Dqrslupo=/0x0:2048x1152/800x0/images/Stephane-Richard-en-2022-2267643.jpg",
       "date": "Fri, 10 Apr 2026 09:45:34 GMT",
-      "time": "il y a 2h",
+      "time": "il y a 3h",
       "source": "RMC Sport",
       "sourceId": "rmc",
       "color": "#e05252",
@@ -188,7 +236,7 @@
       "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/star-trek-une-blague-110-euros-pour-ca-les-epaulettes-des-nouveaux-maillots-nike-pour-la-coupe-du-monde-2026-provoquent-la-colere-et-les-moqueries-des-fans_AV-202604100378.html",
       "image": "https://images.bfmtv.com/r0LcPHGfrzHbH92nNOqgiG_I4jg=/0x131:2048x1283/800x0/images/Kylian-Mbappe-lors-du-match-amical-France-Bresil-2-1-le-26-mars-2026-2267986.jpg",
       "date": "Fri, 10 Apr 2026 08:49:31 GMT",
-      "time": "il y a 3h",
+      "time": "il y a 4h",
       "source": "RMC Sport",
       "sourceId": "rmc",
       "color": "#e05252",
@@ -212,7 +260,7 @@
       "url": "https://rmcsport.bfmtv.com/football/transferts/les-girondins-de-bordeaux-interdits-de-recrutement-pour-les-trois-prochains-mercatos_AV-202604100261.html",
       "image": "https://images.bfmtv.com/DZv7cMehhLGG2ici1RuVckI7eNM=/0x212:2048x1364/800x0/images/Le-logo-des-Girondins-de-Bordeaux-en-2023-2252526.jpg",
       "date": "Fri, 10 Apr 2026 06:47:41 GMT",
-      "time": "il y a 5h",
+      "time": "il y a 6h",
       "source": "RMC Sport",
       "sourceId": "rmc",
       "color": "#e05252",
@@ -231,10 +279,10 @@
       "cat": "Football"
     },
     {
-      "title": "\"On a fait la paix\": Chelsea et Enzo Fernandez ont \"mis les choses au clair\" après les propos polémiques et la sanction de l'Argentin",
-      "desc": "Alors que Chelsea a écarté Enzo Fernandez pour deux matchs en raison de ses propos sur le Real Madrid, son agent Javier Pastore, qui avait d'abord dénoncé une sanction injuste, a assuré que tout est d",
-      "url": "https://rmcsport.bfmtv.com/football/premier-league/on-a-fait-la-paix-chelsea-et-enzo-fernandez-ont-mis-les-choses-au-clair-apres-les-propos-polemiques-et-la-sanction-de-l-argentin_AV-202604100184.html",
-      "image": "https://images.bfmtv.com/zI7lgD7J7RfQLd_CoWrdQ3zl6EI=/0x46:2048x1198/800x0/images/Le-milieu-de-Chelsea-Enzo-Fernandez-face-au-PSG-le-17-mars-2026-2264732.jpg",
+      "title": "Chelsea",
+      "desc": "Chelsea est un club de football anglais évoluant en Premier League, situé à Londres et fondé en 1905. Ses joueurs sont surnommés les Blues en raison de la couleur de leur maillot et jouent à Stamford ",
+      "url": "https://rmcsport.bfmtv.com/football/premier-league/chelsea_DN-202304160370.html",
+      "image": "https://images.bfmtv.com/DRK6sbg_scB6SECUOY51RQ4yBVY=/7x115:1991x1231/800x0/images/Chelsea-1780677.jpg",
       "date": "Fri, 10 Apr 2026 05:43:18 GMT",
       "time": "il y a 7h",
       "source": "RMC Sport",
@@ -243,10 +291,10 @@
       "cat": "Football"
     },
     {
-      "title": "Chelsea",
-      "desc": "Chelsea est un club de football anglais évoluant en Premier League, situé à Londres et fondé en 1905. Ses joueurs sont surnommés les Blues en raison de la couleur de leur maillot et jouent à Stamford ",
-      "url": "https://rmcsport.bfmtv.com/football/premier-league/chelsea_DN-202304160370.html",
-      "image": "https://images.bfmtv.com/DRK6sbg_scB6SECUOY51RQ4yBVY=/7x115:1991x1231/800x0/images/Chelsea-1780677.jpg",
+      "title": "\"On a fait la paix\": Chelsea et Enzo Fernandez ont \"mis les choses au clair\" après les propos polémiques et la sanction de l'Argentin",
+      "desc": "Alors que Chelsea a écarté Enzo Fernandez pour deux matchs en raison de ses propos sur le Real Madrid, son agent Javier Pastore, qui avait d'abord dénoncé une sanction injuste, a assuré que tout est d",
+      "url": "https://rmcsport.bfmtv.com/football/premier-league/on-a-fait-la-paix-chelsea-et-enzo-fernandez-ont-mis-les-choses-au-clair-apres-les-propos-polemiques-et-la-sanction-de-l-argentin_AV-202604100184.html",
+      "image": "https://images.bfmtv.com/zI7lgD7J7RfQLd_CoWrdQ3zl6EI=/0x46:2048x1198/800x0/images/Le-milieu-de-Chelsea-Enzo-Fernandez-face-au-PSG-le-17-mars-2026-2264732.jpg",
       "date": "Fri, 10 Apr 2026 05:43:18 GMT",
       "time": "il y a 7h",
       "source": "RMC Sport",
@@ -313,54 +361,6 @@
       "sourceId": "rmc",
       "color": "#e05252",
       "cat": "Ligue 1"
-    },
-    {
-      "title": "Real Madrid - Girona : sur quelle chaîne et à quelle heure regarder le match de Liga en direct ?",
-      "desc": "Le Real Madrid reçoit Girona pour le compte de la 31ème journée de Liga ce vendredi 10 avril 2026. Une rencontre importante dans la course au titre pour les Madrilènes face à un adversaire capable de ",
-      "url": "https://rmcsport.bfmtv.com/football/liga/real-madrid-girona-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-liga-en-direct_AN-202604100004.html",
-      "image": "https://images.bfmtv.com/BtPlY7k12g6txrlAqtPs33kxoT0=/0x0:1600x900/800x0/images/Real-Madrid-Girona-sur-quelle-chaine-et-a-quelle-heure-regarder-le-match-de-Liga-en-direct-2264012.jpg",
-      "date": "Fri, 10 Apr 2026 04:00:00 GMT",
-      "time": "il y a 8h",
-      "source": "RMC Sport",
-      "sourceId": "rmc",
-      "color": "#e05252",
-      "cat": "Liga"
-    },
-    {
-      "title": "\"Les autres championnats avancent et nous...\": Mbock déplore des négociations au point mort sur la convention collective des footballeuses",
-      "desc": "Capitaine des Bleues et déléguée dy syndicat UNFP des joueuses, Griedge Mbock a indiqué ce jeudi à l'AFP qu'il n'y avait pas d'avancée dans les négociations sur la convention collective des footballeu",
-      "url": "https://rmcsport.bfmtv.com/football/feminin/les-autres-championnats-avancent-et-nous-mbock-deplore-des-negociations-au-point-mort-sur-la-convention-collective-des-footballeuses_AN-202604091006.html",
-      "image": "https://images.bfmtv.com/e29DbyFkgFNyIg5usn-rgAXsZLI=/6x111:2038x1254/800x0/images/Griedge-Mbock-avec-l-equipe-de-France-face-a-l-Allemagne-en-octobre-2025-2191776.jpg",
-      "date": "Thu, 09 Apr 2026 22:16:46 GMT",
-      "time": "il y a 14h",
-      "source": "RMC Sport",
-      "sourceId": "rmc",
-      "color": "#e05252",
-      "cat": "Football"
-    },
-    {
-      "title": "\"Strasbourg s’est fait massacrer\": l’After remonté contre les Strasbourgeois après leur défaite à Mayence",
-      "desc": "Walid Acherchour et Daniel Riolo n’ont pas du tout aimé la prestation des joueurs de Strasbourg, surclassés notamment en première période, par Mayence (2-0) jeudi en quart de finale de Ligue Europa Co",
-      "url": "https://rmcsport.bfmtv.com/football/europa-conference-league/strasbourg-s-est-fait-massacrer-l-after-remonte-contre-les-strasbourgeois-apres-leur-defaite-a-mayence_AV-202604091005.html",
-      "image": "https://images.bfmtv.com/4wefneJ__qLx5gOPNLkOy0o_6e0=/0x91:2048x1243/800x0/images/Duel-entre-Guela-Doue-et-Paul-Nebel-lors-de-Mayence-Strasbourg-le-9-avril-2026-2267753.jpg",
-      "date": "Thu, 09 Apr 2026 22:14:25 GMT",
-      "time": "il y a 14h",
-      "source": "RMC Sport",
-      "sourceId": "rmc",
-      "color": "#e05252",
-      "cat": "Football"
-    },
-    {
-      "title": "Richard pressenti à la présidence, logo qui fait jaser… contexte tendu avant un OM - Metz crucial",
-      "desc": "Quelques jours après sa défaite douloureuse à Monaco, l'OM a été éjecté du podium et a l'occasion de reprendre son bien face à Metz, ce vendredi. Mais ce match va se jouer dans une drôle d'atmosphère.",
-      "url": "https://rmcsport.bfmtv.com/football/video-richard-pressenti-a-la-presidence-logo-qui-fait-jaser-contexte-tendu-avant-un-om-metz-crucial_VN-202604090997.html",
-      "image": "https://images.bfmtv.com/sjaQAa46umpIHDPMZj0pTXxz5PU=/0x0:1280x720/800x0/images/Richard-pressenti-a-la-presidence-logo-qui-fait-jaser-contexte-tendu-avant-un-OM-Metz-crucial-2267751.jpg",
-      "date": "Thu, 09 Apr 2026 21:58:42 GMT",
-      "time": "il y a 14h",
-      "source": "RMC Sport",
-      "sourceId": "rmc",
-      "color": "#e05252",
-      "cat": "Football"
     }
   ],
   "scores": []
